@@ -1,0 +1,1 @@
+Bu Uygulama Erdal ÖZBAN Tarafından SQLite Kullanımını göstermek için yazılmıştır.
